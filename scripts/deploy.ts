@@ -60,6 +60,7 @@ const SUPPORTED_NETWORKS = [
   'op',
   'base',
   'berachain',
+  'vana',
 ]
 
 const ONE_DAY = 60 * 60 * 24
