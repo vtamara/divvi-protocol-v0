@@ -62,7 +62,7 @@ yarn hardhat reward-pool:deploy \
 
 > The token address above will match if you deploy the mock token first thing on the fresh Harhat node.
 
-Run Harhdat console:
+Run Hardhat console:
 
 ```
 yarn hardhat console --network localhost
